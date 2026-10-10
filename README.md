@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.jpg" alt="A VizAmp visualization: neon streaks crossing on black" width="100%">
+  <img src="images/icon.png" alt="VizAmp app icon" width="112">
 </p>
 
 <h1 align="center">VizAmp</h1>
@@ -8,6 +8,10 @@
   <strong>The Winamp visualizer, back from 1999.</strong><br>
   A full-screen music visualizer for macOS, Windows and Linux.<br>
   <a href="https://vizamp.co">vizamp.co</a> · an eascend app
+</p>
+
+<p align="center">
+  <img src="images/banner.jpg" alt="A VizAmp visualization: neon streaks crossing on black" width="100%">
 </p>
 
 ---
