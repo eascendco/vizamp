@@ -70,6 +70,29 @@ sudo pacman -U ./VizAmp-*.pacman       # Arch
 
 For the AppImage, make it executable (`chmod +x VizAmp-*.AppImage`) and run it.
 
+## Keyboard shortcuts
+
+Press `H` in VizAmp to show every shortcut over the visuals, and `H` again to hide it. The same list lives in **Settings > Shortcuts**.
+
+| Key | What it does |
+|---|---|
+| `Space` | Play / pause |
+| `←` `→` | Previous / next preset |
+| `Shift` + `←` `→` | Previous / next mood |
+| `R` | Random preset |
+| `A` | Auto-cycle on / off |
+| `T` | Cycle skin |
+| `G` | Favorite the current preset |
+| `F` | Jump to Favorites |
+| `S` | Open Settings |
+| `H` | Show / hide shortcuts |
+| `⌘` `F` | Full screen (`Ctrl` `F` on Windows and Linux) |
+| `⌘` `,` | Settings (`Ctrl` `,` on Windows and Linux) |
+
+## Updates
+
+VizAmp checks for a new version when it starts. When one is out, it tells you, and **View on GitHub** opens the release so you can download it. Install it over the old version. You can also check any time: **VizAmp > Check for Updates…** on a Mac, **File > Check for Updates…** on Windows and Linux. Your license key carries over.
+
 ## Try it, then keep it
 
 VizAmp runs as a **free 5-day trial** from first launch. No card, no account.
