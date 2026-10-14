@@ -91,7 +91,11 @@ Press `H` in VizAmp to show every shortcut over the visuals, and `H` again to hi
 
 ## Updates
 
-VizAmp checks for a new version when it starts. When one is out, it tells you, and **View on GitHub** opens the release so you can download it. Install it over the old version. You can also check any time: **VizAmp > Check for Updates…** on a Mac, **File > Check for Updates…** on Windows and Linux. Your license key carries over.
+From 1.0.2, VizAmp updates itself. When a new version is out, it downloads in the background while you keep listening, then a small message asks you to **Restart**. Choose **Later** and it installs the next time you quit. You can also check any time: **VizAmp > Check for Updates…** on a Mac, **File > Check for Updates…** on Windows and Linux. Your license key carries over.
+
+On 1.0.0 or 1.0.1? Download 1.0.2 from the [Releases page](https://github.com/eascendco/vizamp/releases/latest) once and install it over the old version. Updates are automatic from then on.
+
+Installed the Linux `.deb`, `.rpm` or `.pacman`? Those can't replace themselves, so VizAmp tells you when there's a new version and opens this page to download it. The AppImage updates itself.
 
 ## Try it, then keep it
 
